@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\hp\source\repos\Volume and surface area of a cylinder\Volume and surface area of a cylinder\main.c(16,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\source\repos\Volume and surface area of a cylinder\Volume and surface area of a cylinder\main.c(17,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Volume and surface area of a cylinder.vcxproj -> C:\Users\hp\source\repos\Volume and surface area of a cylinder\x64\Debug\Volume and surface area of a cylinder.exe
